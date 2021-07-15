@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mario
 - I’m currently working as a consultant for the World Bank on establishin a harmonized household labour survey database.
 - I like developing tools and processes to make my colleague's and my life easier. I work in R, Stata, and Python.
-- Currently, what I'd like to learn about most is how to give users the ability to change the code that harmonizes surveys so they can correct errors when they see (and thus update the database) while still having some quality controls (e.g., correcting one issue actually cause 10 others)
+- Currently, what I'd like to learn about most is how to give users the ability to change the code that harmonizes surveys so they can correct errors when they see (and thus update the database) while still having some quality controls (e.g., correcting one issue actually causes 10 others)
 - 📫 You may reach me here or under mgronert@worldbank.org.
 
 <!---
